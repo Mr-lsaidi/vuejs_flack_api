@@ -1,0 +1,11 @@
+## my_vueapp
+
+npm install
+
+npm run serve 
+
+## Flask api
+
+python3 app.py 
+or 
+python app.py
